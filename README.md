@@ -1,6 +1,7 @@
 # Java-Paint-Tool-UofT-Group-Project
 This was a group project completed in JAVA. I gained a strong understanding of the MVC(model, view, controller) method, and applied OOP(object oriented programming) to a large extent. During this project, I learned how to remotely work on multiple branches through Git and merge them to the master branch. I also learned how to work in a large group since it was a group of 4. We communicated through the scrum meeting method. Ultimately, this project was a success. Here is a demo of the program.
 ## DEMO ##
+https://youtu.be/533KXKu0orw
 ## There is a colour selector as well as a line thickness slider. Can choose if the shape is filled when drawn or hollow
 ![image](https://user-images.githubusercontent.com/40246928/191343351-46fdbe3e-b822-4147-a9c1-f2757033353e.png)
 ## Polygon Selector Tool ##
