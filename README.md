@@ -16,7 +16,7 @@ https://youtu.be/533KXKu0orw
 ![image](https://user-images.githubusercontent.com/40246928/191343020-8d7a7668-86da-4f49-94f5-9bfa0d7fff7d.png)
 ![image](https://user-images.githubusercontent.com/40246928/191343123-a47b2528-856d-4a12-9790-a3d0b09fff7a.png)
 ![image](https://user-images.githubusercontent.com/40246928/191343342-4ff80c40-4b07-4b24-a1be-932da056af09.png)
-without NGRX implemented
+
 
 
 
