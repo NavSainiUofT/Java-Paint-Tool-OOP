@@ -1,4 +1,4 @@
-# Java-Paint-Tool-Univseristy-of-Toronto-Project
+# Java-Paint-Tool-Univseristy-of-Toronto-Project 
 This was a group project completed in JAVA. I gained a strong understanding of the MVC(model, view, controller) method, and applied OOP(object oriented programming) to a large extent. During this project, I learned how to remotely work on multiple branches through Git and merge them to the master branch. I also learned how to work in a large group since it was a group of 4. We communicated through the scrum meeting method. Ultimately, this project was a success. Here is a demo of the program.
 ## DEMO ##
 https://youtu.be/533KXKu0orw
