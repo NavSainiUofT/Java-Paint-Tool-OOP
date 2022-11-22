@@ -4,7 +4,7 @@ This was a group project completed in JAVA. I gained a strong understanding of t
 https://youtu.be/533KXKu0orw
 ## There is a colour selector as well as a line thickness slider. Can choose if the shape is filled when drawn or hollow
 ![image](https://user-images.githubusercontent.com/40246928/191343351-46fdbe3e-b822-4147-a9c1-f2757033353e.png)
-## Polygon Selector Tool ##
+## Polygon Selector Tool. ##
 ![image](https://user-images.githubusercontent.com/40246928/191342805-3ca2011d-11d0-4dd0-8c0d-eeb0bb064273.png)
 ## Can save as png and open files, can also copy and paste shapes and drawings as well as undo,redo ##
 ![image](https://user-images.githubusercontent.com/40246928/191342833-c93fd97e-daf5-4c43-a370-077ecbee2877.png)
